@@ -13,4 +13,4 @@ Methods that were used and others:
 5. `for of loop`
 
 #### This repository is in my #100-Days-Of-Code Challenge log
-[100-Days-Of-Code log](https://github.com/Holiv/100DaysOfCode)
+[100-Days-Of-Code log](https://github.com/Holiv/100DaysOfCode/blob/main/log.md)
